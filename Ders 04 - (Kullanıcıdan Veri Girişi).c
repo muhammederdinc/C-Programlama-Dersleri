@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define PI 3.14
 /*
-Hazýrlayan : Muhammed Erdinç - muhammederdinc.com
+Hazýrlayan : Muhammed Erdinç - muhammederdinc.com 
 */
 int main (){
 	
